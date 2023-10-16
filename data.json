@@ -1,0 +1,27 @@
+{
+    "datasets": [
+        {
+            "data": [30, 350, 90, 45, 20, 88, 910, 112],
+            "backgroundColor": [
+                "#ffcd56",
+                "#ff6384",
+                "#36a2eb",
+                "#fd6b19",
+                "#ca6274",
+                "#19cd5a",
+                "#ed2f97",
+                "#707070"
+            ]
+        }
+    ],
+    "labels": [
+        "Eat out",
+        "Rent",
+        "Groceries",
+        "Laundry",
+        "Gifts",
+        "Insurance",
+        "Donation",
+        "Travel"
+    ]
+}

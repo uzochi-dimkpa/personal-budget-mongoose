@@ -1,0 +1,6 @@
+__pycache__/
+.DS_Store
+node_modules
+*Zone.Identifier
+*.zip
+quiz08*.png
